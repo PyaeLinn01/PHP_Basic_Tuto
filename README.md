@@ -1,1 +1,1 @@
-# PHP_Basic_Tuto
+This repository contains various tutorials and code snippets related to PHP.
